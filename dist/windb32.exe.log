@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "windb32.py", line 72, in keypressed
+  File "windb32.py", line 46, in local
+  File "ntpath.pyc", line 215, in dirname
+  File "ntpath.pyc", line 188, in split
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "windb32.py", line 72, in keypressed
+  File "windb32.py", line 46, in local
+  File "ntpath.pyc", line 215, in dirname
+  File "ntpath.pyc", line 188, in split
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "windb32.py", line 72, in keypressed
+  File "windb32.py", line 46, in local
+  File "ntpath.pyc", line 215, in dirname
+  File "ntpath.pyc", line 188, in split
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "windb32.py", line 72, in keypressed
+  File "windb32.py", line 46, in local
+  File "ntpath.pyc", line 215, in dirname
+  File "ntpath.pyc", line 188, in split
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 351, in KeyboardSwitch
+  File "windb32.py", line 72, in keypressed
+  File "windb32.py", line 46, in local
+  File "ntpath.pyc", line 215, in dirname
+  File "ntpath.pyc", line 188, in split
+TypeError: an integer is required
